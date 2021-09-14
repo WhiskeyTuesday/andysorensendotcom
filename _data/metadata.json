@@ -1,17 +1,17 @@
 {
-  "title": "elija sorensen dot com",
-  "url": "https://elijasorensen.com/",
+  "title": "andy sorensen dot com",
+  "url": "https://andysorensen.com/",
   "language": "en-ca",
   "description": "a reasonably self-explanatory website",
   "feed": {
-    "subtitle": "Thoughts from inside the mouth of the giant turtle",
+    "subtitle": "Thoughts from the captain",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://elijasorensen.com/"
+    "id": "https://andysorensen.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://elijasorensen.com/feed/feed.json"
+    "url": "https://andysorensen.com/feed/feed.json"
   },
   "author": {
     "name": "Elija Sorensen",
